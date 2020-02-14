@@ -23,6 +23,7 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## Roadmap
+Currently, code release is a work in progress. Below are what I plan to work on next:
 - Update README to describe
   - How to train the objectness model (PointNets) (`pointnet2/`)
   - How to run segmentation (`segment_with_pointnet.py`)
