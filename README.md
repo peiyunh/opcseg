@@ -36,6 +36,7 @@ Currently, code release is a work in progress. Below are what I plan to work on 
     - Or ignore points that fall into the overlapping regions
   - Right now, they are highly redundant. I plan to merge them together.
 - Release all pre-trained models. 
+- Test training code.
 
 ## Installation
 
